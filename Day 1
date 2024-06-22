@@ -1,0 +1,10 @@
+#Day1 of 100 Days Python Programming Challenge
+#Introduction
+print("Greetings for the day")
+print("I am Anshika")
+print("I am currently pursuing B.Sc(H) Computer Science")
+print("I am a student of Indraprastha College for Women's, Delhi")
+print("Before concluding my intro, there's a thought I would like to share.")
+print("Hope and perserverance can bring a massive change in someone's life.")
+print("Thank you so much for reading it out!")
+print("Have a gleeful day ahead!")
