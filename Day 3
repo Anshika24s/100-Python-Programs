@@ -1,0 +1,6 @@
+name = input("Enter name :")
+eng = float(input("Enter marks in English: "))
+math = float(input("Enter marks in Mathematics: "))
+sci = float(input("Enter marks in Science: "))
+sst = float(input("Enter marks in Sst: "))
+hindi = float(input("Enter marks in Hindi: "))
